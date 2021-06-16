@@ -28,13 +28,6 @@ h1 {
     
 }
 
-#myBook{
-    text-align: center;
-    margin-left:auto;
-    margin-right: auto;
-    display:block;
-}
-
 h2 {
     text-align: center;
 }
@@ -68,6 +61,16 @@ vidOne{
 
 #bookOne{
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+}
+
+#myBook{
+    text-align: center;
+    margin-left:auto;
+    margin-right: auto;
+    display:block;
 }
 
 #likeMe {
@@ -78,7 +81,7 @@ vidOne{
     display: block;
 }
 
-#ubiNews {
+#ubiNews{
     color: white;
     text-shadow: 2px 2px black;
     line-height: 2rem;
