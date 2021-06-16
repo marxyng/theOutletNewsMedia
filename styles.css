@@ -1,0 +1,94 @@
+body{
+    background-color: red;
+}
+
+#news{
+width: 10rem;
+float: left;
+
+}
+
+ul li {
+    display: inline-block;
+    margin: 2rem;
+}
+
+#meOne{
+    width: 25rem;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+h1 {
+    text-align: center;
+    margin-left: auto;
+    margin-right: 10rem;
+
+    
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+h4 {
+    text-align: center;
+}
+
+#aboutMe{
+    margin-right:15rem;
+}
+
+vidOne{
+    display: block;
+    margin: 0 auto;
+  
+    
+}
+
+#aboutNews{
+    text-align: center;
+    font-size: 8rem;
+
+}
+
+#bookOne{
+    text-align: center;
+}
+
+#likeMe {
+    width: 10rem;
+    height: 3rem;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+p {
+    color: white;
+    text-shadow: 2px 2px black;
+    line-height: 2rem;
+    font-size: 2rem;
+}
+
+#article2 {
+    color: white;
+    text-shadow: 2px 2px black;
+}
+
+#article3 {
+    color: white;
+    text-shadow: 2px 2px black;
+
+}
+
+#universal {
+    text-align: center;
+}
